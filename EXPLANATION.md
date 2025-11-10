@@ -1,6 +1,6 @@
 # Ausführliche Erklärung des Lösungswegs – Herbsträtsel 2025
 
-### John Adept Ade & Uwe Alpha, 10a
+### Johannes Ade & Johannes Daut, 10a
 ---
 
 Im Folgenden wird unser Lösungsweg für das Herbsträtsel 2025 detailliert erklärt.
