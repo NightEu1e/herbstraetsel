@@ -282,7 +282,15 @@ Hier ist die **Lösung** für die Konstellation aus der **Aufgabenstellung**:
     Alle im Code verwendeten Funktionen (z. B. `Map.ofEntries`, `var`, `List.of`) sind ab <strong>Java 9</strong> verfügbar.
     <p>
         <a href="BirthdaySolver.java" download>
-            <button>
+            <button style="background-color: #121212;
+color: #f8f8f2;
+font-family: monospace, monospace;
+border: 1px solid #c5c8c6;
+border-radius: 4px;
+padding: 6px 12px;
+cursor: pointer;
+transition: background-color 0.3s ease, color 0.3s ease;
+">
               ☕ Java-Code herunterladen
             </button>
         </a>
