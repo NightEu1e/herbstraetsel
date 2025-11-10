@@ -274,3 +274,17 @@ Hier ist die **Lösung** für die Konstellation aus der **Aufgabenstellung**:
 </tr>
 </tbody>
 </table>
+
+---
+<details>
+  <summary>💾 Code-Download & Sprachlevel</summary>
+    Das Programm wurde in <strong>Java 17</strong> entwickelt.
+    Alle im Code verwendeten Funktionen (z. B. `Map.ofEntries`, `var`, `List.of`) sind ab <strong>Java 9</strong> verfügbar.
+    <p>
+        <a href="BirthdaySolver.java" download>
+            <button>
+              ☕ Java-Code herunterladen
+            </button>
+        </a>
+    </p>
+</details>
